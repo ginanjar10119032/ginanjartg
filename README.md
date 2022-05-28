@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ginanjartg and this is my account to do school homework. My another account was @ginanjar-tubagus-gumilar
+- 👀 I’m interested in developing a nice looking website
+- 🌱 I’m currently learning codeigniter 4
+- 💞️ I’m looking to collaborate on creating more website
+- 📫 Keep in touch with me on LinkedIn at : https://www.linkedin.com/in/ginanjar-tubagus-gumilar-a4638b1b6/
+
+<!---
+ginanjartg/ginanjartg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
